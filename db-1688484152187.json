@@ -11,12 +11,6 @@
       "task": "he",
       "priority": "Low",
       "completed": false
-    },
-    {
-      "id": "74b097e4-8c23-417a-a399-e7f58e7f52ff",
-      "task": "hello world",
-      "priority": "Urgent",
-      "completed": false
     }
   ],
   "process": [],

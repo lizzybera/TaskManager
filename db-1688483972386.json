@@ -5,22 +5,23 @@
       "task": "Go home",
       "priority": "Urgent",
       "completed": false
-    },
+    }
+  ],
+  "process": [
+    {
+      "id": "83199edd-b1f6-4b3b-a4f1-b750293505c0",
+      "task": "Write a book",
+      "priority": "Low",
+      "completed": false
+    }
+  ],
+  "done": [
     {
       "id": "323eaec9-38f4-4ffc-a83f-dd750c7103f9",
       "task": "he",
       "priority": "Low",
       "completed": false
     },
-    {
-      "id": "74b097e4-8c23-417a-a399-e7f58e7f52ff",
-      "task": "hello world",
-      "priority": "Urgent",
-      "completed": false
-    }
-  ],
-  "process": [],
-  "done": [
     {
       "id": "18d0da4e-b1b7-4f57-8c2e-3dbc49d0c503",
       "task": "hello",
@@ -31,12 +32,6 @@
       "id": "34aa6f26-32ca-4279-9191-93bd3b508e86",
       "task": "Coding",
       "priority": "Urgent",
-      "completed": false
-    },
-    {
-      "id": "b6ebcd0d-aa9d-4839-b018-8efa685cd19f",
-      "task": "Write a book",
-      "priority": "Low",
       "completed": false
     }
   ]
